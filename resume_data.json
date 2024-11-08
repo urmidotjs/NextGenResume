@@ -1,0 +1,21 @@
+{
+    "personal": {
+        "name": "Urmi Tiwari",
+        "email": "urmitiwari1118@gmail.com",
+        "phone": "8436974814",
+        "address": "Durgapur WB"
+    },
+    "experiences": [
+        {
+            "company": "xyz",
+            "role": "abc",
+            "duration": "Jan 2021-Jan 2025",
+            "description": "shshs"
+        }
+    ],
+    "skills": [
+        "a",
+        "b",
+        "c"
+    ]
+}
